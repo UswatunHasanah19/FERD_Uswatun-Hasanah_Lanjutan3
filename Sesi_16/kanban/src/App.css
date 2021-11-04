@@ -1,0 +1,22 @@
+#input {
+    padding: auto;
+    width: 500px;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+.button {
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 12px;
+      background-color: blue;
+      color: white;
+      margin: 10px;
+      padding: 8px;
+      border-radius: 5px;
+}
+
+  
