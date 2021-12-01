@@ -8,6 +8,7 @@ import Profile from './pages/Profile'; //Memanggil halaman PostPage
 
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 import IconAntDesign from 'react-native-vector-icons/AntDesign'
+
 const Stack = createBottomTabNavigator();
 
 const Router = () => {
